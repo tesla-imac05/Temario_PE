@@ -1,0 +1,25 @@
+body {  
+   
+    font-family: Arial, sans-serif; /* Cambiar la fuente */
+    background-color: #8dddf3; /* Cambiar el color de fondo */
+  }
+  
+  h2 {
+    font-size: 24px; /* Cambiar el tamaño de letra de los encabezados */
+    color: #333; /* Cambiar color de los encabezados */
+  }
+  
+  ul {
+    list-style-type: disc; /* Cambiar el estilo de viñetas en las listas */
+    margin-left: 20px; /* Añadir un margen a la izquierda de las listas */
+  }
+  
+  li {
+    margin-bottom: 10px; /* Añadir un espacio entre elementos de la lista */
+  }
+  
+  p {
+    font-size: 16px; /* Cambiar el tamaño de letra de los párrafos */
+    line-height: 1.5; /* Ajustar el espaciado entre líneas */
+  }
+  
